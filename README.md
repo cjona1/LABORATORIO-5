@@ -79,12 +79,14 @@ Físico.
 
 ![image](https://user-images.githubusercontent.com/116687152/210889601-0517898b-2480-4048-9ee7-1e4e3123a921.png)
 
+![image](https://user-images.githubusercontent.com/116817673/211031384-046ca943-54fc-4323-b3e5-f507caa46028.png)
+
+
 
 3.3.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
 
 ![WhatsApp Image 2023-01-05 at 12 47 15](https://user-images.githubusercontent.com/116687152/210889751-d2ea6690-b5c4-43de-84c7-7e293fa6fa69.jpeg)
 
-![WhatsApp Image 2023-01-05 at 12 47 15](https://user-images.githubusercontent.com/116687152/210889751-d2ea6690-b5c4-43de-84c7-7e293fa6fa69.jpeg)
 
 3.3.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1. 
 
