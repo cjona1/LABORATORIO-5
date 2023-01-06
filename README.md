@@ -79,8 +79,6 @@ Físico.
 
 ![image](https://user-images.githubusercontent.com/116687152/210889601-0517898b-2480-4048-9ee7-1e4e3123a921.png)
 
-![image](https://user-images.githubusercontent.com/116817673/211024203-f897004f-6337-4cee-bad4-9a8bf1f49b2d.png)
-
 
 3.3.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
 
