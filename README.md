@@ -42,6 +42,15 @@ OBJETIVOS ESPECÍFICOS
 
 ![image](https://user-images.githubusercontent.com/116817673/210875762-edca3b75-6d86-4edf-a060-ba15a82ca4e8.png)
 
+Las fuentes de poder o fuentes de alimentación, son equipos cuya función principal es transformar la energía.
+
+La resistencia electrica es la oposicion (dificultad) al paso de la corriente electrica.
+
+Los potenciómetros de precisión son utilizados para ajustes de precisión en circuitos donde se requiere que el usuario pueda modificar ciertos parámetros. Un potenciómetro de precisión, es ajustable y puede abrir muchas interfaces de usuario interesantes. Gire la perilla y la resistencia cambia. Conecte VCC a un pin externo, GND al otro, y el pin central tendrá un voltaje que varía de 0 a VCC dependiendo de la rotación del potenciómetro. Enganche el pin central a un ADC en un microcontrolador y obtenga una entrada variable del usuario.
+
+![image](https://user-images.githubusercontent.com/116817673/211018912-cfe9ebcc-2e91-4805-a63f-b7d6c073eb43.png)
+
+
 3.2 Circuito.
 
 ![image](https://user-images.githubusercontent.com/116817673/210875984-765d6c83-9987-47b8-bd71-5757b820bd0c.png)
@@ -93,6 +102,27 @@ Medición de la corriente.
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.
 
+![image](https://user-images.githubusercontent.com/116817673/211015362-cf58f53d-6e9c-4fa1-b281-c7b52bc1351a.png)
+
+![image](https://user-images.githubusercontent.com/116817673/211015417-9f07f2ed-ddf1-4a2a-b293-2e8e3f503437.png)
+
+![image](https://user-images.githubusercontent.com/116817673/211015467-4c4a9d59-94ba-41db-9245-a7edaf57d02b.png)
+
+![image](https://user-images.githubusercontent.com/116817673/211015498-5ee498dc-5861-4ba5-aa71-c6e050460d2c.png)
+
+![image](https://user-images.githubusercontent.com/116817673/211015546-3b22e368-884f-4145-b919-b1b5435a60ef.png)
+
+![image](https://user-images.githubusercontent.com/116817673/211018128-596c344b-7b47-4e1b-a3a8-52a0aea490e5.png)
+
+
+# TABLAS:
+
+![image](https://user-images.githubusercontent.com/116817673/211015832-e85c7d13-f1c6-47e2-afb6-50998714246d.png)
+
+# CALCULO DE ERROR:
+
+![image](https://user-images.githubusercontent.com/116817673/211018987-e1d8cb67-9d02-4a15-b63d-69c39634093f.png)
+
 
 # 5. VÍDEO.
 
@@ -101,6 +131,12 @@ Adjunto el link del video donde se explica la práctica y el teorema de Théveni
 https://youtu.be/KXJ5HO8FPYA
 
 # 6. CONCLUSIONES.
+
+• El uso y aplicación del teorema de Thévenin es de gran eficacia cuando tenemos cualquier tipo de circuito y queremos calcular cualquier tipo de valor desconocido en el mismo dando un circuito en serie más fácil para determinar dicho valor.
+
+• Los valores calculados (RTV y VTH) obtenidos analíticamente y experimentalmente corroboraron dicho teorema, sin embargo, observamos que estos datos tuvieron unos pequeños márgenes de error y esto se podría dar por dos razones: al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias , y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez interviene el hecho que no habíamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos.
+
+• El laboratorio me ha servido para aprender la definición del teorema de Thévenin; el conocimiento previo de los temas del primer parcial se aplica en este nuevo teorema.
 
 # 7. BIBLIOGRAFÍA.
 
